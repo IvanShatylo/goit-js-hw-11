@@ -75,3 +75,4 @@ async function clickLoadMoreBtn() {
     endCollectionText.classList.remove('is-hidden');
   }
 }
+
